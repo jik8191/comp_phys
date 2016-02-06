@@ -302,6 +302,7 @@ void scfiter(){
 }
 
 int main(){
+  // TODO: refactor agressively
   // normalization test
   initialize();
   writeutofile(); // write initial u
